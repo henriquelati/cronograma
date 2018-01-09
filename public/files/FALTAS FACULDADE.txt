@@ -1,0 +1,81 @@
+FALTAS FACULDADE
+seg: 4
+ter: 0
+qua: 8
+qui: 10
+sex: 8
+
+PROJETO DE CONCLUSÃO DE CURSO
+
+
+
+
+focar em APP e melhorias pontuais
+
+
+Olá
+eu tenho um produto de recorrencia
+porém 3 assinantes
+a cobrança não foi realizada
+(não houve nem tentativa)
+segue os e-mails e a transação da primeira parcela de assinatura
+junior@ecotag.me - transação 1410529 (gerou assinatura)
+guilherme@vidrolaser.com.br transação : 1428593
+comercial@etabel.com.br transação 1414711
+entrar em contato sobre a assinatura que não foi gerada, check out novo e recorrencia 2.0
+mentaepaola@protagonistas.com
+
+
+bug de upsell one click bye
+xpioker@gmail.com
+
+
+suporte@kareemi.com entrar em contato assim que controle de acesso do nutror estiver pronto
+
+
+WEB
+Criar todas as funções da api - 14/11/2017 - OK
+Terminar funcionalidades da pág de detalhes de assunto - 15/11/2017 - OK
+Alterar post para marcar falta para alunos - 15/11/2017 - OK
+Criar edição de perfil - 15/11/2017 - OK
+Terminer conversa - 18/11/2017 - OK
+Fazer a criaçao de nova consulta - 15/11/2017 OK
+Fazer upload/download de arquivos - 16/11/2017 - 17/11/2017 OK
+
+
+precisar arrumar documentação - 03/12/2017 - ok
+Inserir foto no perfil - 16/11/2017 - 03/12/2017 - ok
+Edição de cronograma - 03/12/2017 - ok
+Recuperar senha - 03/12/2017 - ok
+Enviar e-mail de acesso - 03/12/2017 - ok
+Primeiro acesso - 03/12/2017 - ok
+Separa página de de aluno/professor - 03/12/2017 - ok
+Criar url para cadastro de professor - 03/12/2017- ok
+Tratar erros de expiração de token - 03/12/2017 - ok
+Validação de erro login - 03/12/2017 - ok
+
+
+
+
+
+////////////////
+
+criação de projeto, se assunto estiver vázio, gravar como "Sem assunto registrado nessa data"
+mostrar no cronograma observação
+
+WEB
+VERIFICAR CRONOGRAMA, VIZUALIZAÇÃO DO MESMO COMO ORIENTADOR E COMO ALUNO
+
+APP
+FAZER VALIDAÇÃO DE LOGIN
+FAZER VALIDAÇÃO DE EDIÇÃO DE PERFIL E SENHA
+
+
+
+ALTERAR NO SERVIDO
+
+API
+
+WEB
+
+MOBILE
